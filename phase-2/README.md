@@ -35,3 +35,10 @@
 
 > `create database from `
 
+> `ติดตั้งโปรแกรม xampp
+และกด start apache กับ mysql ในโปรแกรม xampp
+หลังจากนั้นเข้าเบราเซอร์แล้วใส่ url localhost/phpmyadmin
+สร้าง database ชื่อว่า software
+แล้วทำการ import ไฟล์ sql ที่อยู่ ที่ C:\xampp\htdocs
+เสร็จแล้วทำการ กรอก url เป็น localhost เป็นอันเสร็จสิ้น`
+
