@@ -7,7 +7,7 @@
 
 ### Onedrive: 
 
-> https://studentmahidolac-my.sharepoint.com/:v:/g/personal/sirichet_non_student_mahidol_ac_th/ES51A5prUdZGiLfQYMebGJIBvfN3JjBQJgBRpGNcHKz-3w?e=4c6ytK
+> https://studentmahidolac-my.sharepoint.com/:v:/g/personal/sirichet_non_student_mahidol_ac_th/ET18yfAqTbpLkJtf2OFn3NkBwkQWQtlcJTTZxnuJ-5D6jw?e=4dP1cc
 
 ## Description for Mock up application (MockUp-TravelNaja_App.xd)
 
@@ -17,7 +17,7 @@
 
 > `P.S. This mock up wil show you about Login, Register and Reserve Hotel only <you can reserve when you're our member only>`
 
-## Description for Mock up Website ()
+## Description for Mock up Website
 
 > `User need to have Xmapp on your computer`
 
@@ -32,8 +32,6 @@
 > `Open browser --> type 'localhost/phpmyadmin' in serach box`
 
 > `Login mysql on browser  --> username: root , password: none (no need to input) --> login`
-
-> `create database from `
 
 > `ติดตั้งโปรแกรม xampp
 และกด start apache กับ mysql ในโปรแกรม xampp
