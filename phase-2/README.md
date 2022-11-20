@@ -16,3 +16,22 @@
 > `Then select "Flow1" and Click play icon (|>) on the top-right of the program`
 
 > `P.S. This mock up wil show you about Login, Register and Reserve Hotel only <you can reserve when you're our member only>`
+
+## Description for Mock up Website ()
+
+> `User need to have Xmapp on your computer`
+
+> `bring htdocs (from our) -> C:\xampp replace this on htdocs on folder`
+
+> `Config "config-page.php" -> servername, username, password, DB name that you will get when you insall Xampp`
+
+> `save file "config-page.php"`
+
+> `Open Xampp --> run apache and mysql`
+
+> `Open browser --> type 'localhost/phpmyadmin' in serach box`
+
+> `Login mysql on browser  --> username: root , password: none (no need to input) --> login`
+
+> `create database from `
+
